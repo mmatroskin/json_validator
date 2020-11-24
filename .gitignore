@@ -1,0 +1,10 @@
+# Python byte code
+*.pyc
+
+# Dirs
+/.idea
+/venv
+
+# Files
+/task_folder/event/*
+/task_folder/schema/*
